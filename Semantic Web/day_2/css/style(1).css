@@ -7,38 +7,38 @@
 .container .header{
 	width: 1170px;
 	height: 200px;
-	background-color: #d3d3d3;
+	background-color: lightcoral;
 }
 
 .container .row1{
 	width: 1170px;
 	height: 200px;
-	background-color: #cbb9aa;
+	background-color: yellowgreen;
 	float: left;
 }
 
 .container .row1 .content1{
 	width: 292.5px;
 	height: 200px;
-	background-color: #d7b4a3;
+	background-color: yellow;
 	float: left;
 }
 .container .row1 .content2{
 	width: 292.5px;
 	height: 200px;
-	background-color: #d59890;
+	background-color: purple;
 	float: left;
 }
 .container .row1 .content3{
 	width: 292.5px;
 	height: 200px;
-	background-color: #c7a8ad;
+	background-color: green;
 	float: left;
 }
 .container .row1 .content4{
 	width: 292.5px;
 	height: 200px;
-	background-color: #d5cacc;
+	background-color: pink;
 	float: left;
 }
 
@@ -63,7 +63,7 @@
 .container .row2 .content7{
 	width: 585px;
 	height: 200px;
-	background-color:  lightcoral;
+	background-color:  red;
 	float: left;
 }
 
