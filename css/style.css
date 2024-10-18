@@ -3,10 +3,10 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background: linear-gradient(to bottom,#fe4365,#fc9d9a);
+    background: linear-gradient(to bottom,#9370db  ,#ffdab9);
 }
 header {
-    background: linear-gradient(to bottom, #fc9d9a,#fe4365 );
+    background: linear-gradient(to bottom, #ffdab9 ,#9370db);
     text-align: center;
     padding: 20px;
 }
@@ -30,7 +30,7 @@ header p, header h2 {
 }
 
 nav {
-    background-color: #de3163;
+    background-color: #9370db;
     text-align: center;
     padding: 10px 0;
 }
@@ -50,7 +50,7 @@ nav button {
 }
 
 nav button:hover {
-    background-color: #ffc0cb;
+    background-color: #ffdab9;
 }
 
 main {
